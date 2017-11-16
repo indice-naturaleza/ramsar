@@ -1,2 +1,3 @@
-# ramsar
-Índice de Naturaleza de los sitios Ramsar de Costa Rica
+# El Índice de Naturaleza de los Sitios Ramsar de Costa Rica
+
+## Indicadores
