@@ -12,7 +12,7 @@ Cada indicador es reportado para un total de [2006 hexágonos de 5 km2](https://
 
 La siguiente es la lista de indicadores utilizados en la implementación del Índice de Naturaleza en los sitios Ramsar de Costa Rica:
 
-* [Riqueza de especies de mamíferos terrestres](https://github.com/indice-naturaleza/ramsar/blob/master/README.md#riqueza-de-especies-de-mam%C3%ADferos-terrestres)
+* [Riqueza de especies de mamíferos terrestres](#riqueza-de-especies-de-mam%C3%ADferos-terrestres)
 * [Riqueza de especies de aves acuáticas residentes](https://github.com/indice-naturaleza/ramsar/blob/master/README.md#riqueza-de-especies-de-aves-acu%C3%A1ticas-residentes)
 * [Cobertura y uso de la tierra](https://github.com/indice-naturaleza/ramsar/blob/master/README.md#cobertura-y-uso-de-la-tierra)
 
