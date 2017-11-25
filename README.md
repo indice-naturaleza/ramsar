@@ -11,8 +11,7 @@ A continuación se presenta la lista de indicadores utilizados para el IN de los
 ## Indicadores
 
 ### Riqueza de especies de mamíferos terrestres
-![Indicador de riqueza de mamíferos terrestres](https://github.com/indice-naturaleza/ramsar/blob/master/img/in-indicador-mamiferos.png "Indicador de riqueza de mamíferos terrestres")
-[![Indicador de riqueza de mamíferos terrestres](https://github.com/indice-naturaleza/ramsar/blob/master/img/in-indicador-mamiferos.png)](https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed "Indicador de riqueza de mamíferos terrestres")
+[![Indicador de riqueza de mamíferos terrestres](https://github.com/indice-naturaleza/ramsar/blob/master/img/in-indicador-mamiferos.png)](https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed "Haga clic aquí para ver el mapa en detalle")
 
 [Presione este enlace para ver el mapa detallado del indicador](https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed)
 
