@@ -37,7 +37,7 @@ Los registros de presencia provienen de dos consultas ([1](https://www.gbif.org/
 [![Indicador de riqueza de aves acuáticas residentes](img/in-indicador-cobertura.png)](https://mfvargas.carto.com/builder/384b1e8e-05d8-471f-8c82-830697fd3503/embed "Haga clic en el mapa para verlo en detalle")
 Haga clic en el mapa para verlo en detalle
 
-Este indicador muestra el estado de la cobertura vegetal natural y de la cobertura acuática natural en los sitios Ramsar en los que que el Proyecto Humedales ha realizado estudios de cobertura y uso de la tierra. Estos son: **Térraba Sierpe, Gandoca-Manzanillo, Caribe Noreste, Maquenque, Caño Negro y Palo Verde**. Para calcular el indicador, se le asigna un peso entre 0 y 1 a cada uno de los tipos de cobertura o uso de la tierra identificados por el Proyecto Humedales, como se muestra en la siguiente tabla:
+Este indicador muestra el estado de la cobertura vegetal natural y de la cobertura acuática natural en los sitios Ramsar en los que que el Proyecto Humedales ha realizado estudios de cobertura y uso de la tierra. Estos sitios son: **Térraba Sierpe, Gandoca-Manzanillo, Caribe Noreste, Maquenque, Caño Negro y Palo Verde**. Para calcular el indicador, se le asigna un peso entre 0 y 1 a cada uno de los tipos de cobertura de la tierra identificados por el Proyecto Humedales, como se muestra en la siguiente tabla:
 
 | Cobertura/uso              | Peso |   | Cobertura/uso                | Peso |
 | -------------------------- | ----:| - | ---------------------------- | ----:|
@@ -54,10 +54,11 @@ Este indicador muestra el estado de la cobertura vegetal natural y de la cobertu
 |                            |      |   | Área de nubes                | 0    |
 |                            |      |   | Área de sombras              | 0    |
 
-Los tipos de cobertura o uso que son naturales tienen un peso de uno y este peso disminuye conforme aumenta el grado de intervención humana en la cobertura o el uso. Para cada hexágono, el valor del indicador se calcula sumando las áreas de cada tipo de cobertura/uso multiplicadas por el peso respectivo y diviendo esta suma entre el área total del hexágono, conmo se muestra en la siguiente fórmula:
+Los tipos de cobertura que son naturales tienen un peso de uno y este peso disminuye conforme aumenta el grado de intervención humana en la cobertura o el uso. Para cada hexágono, el valor del indicador se calcula sumando las áreas de cada tipo de cobertura/uso multiplicadas por el peso respectivo y diviendo esta suma entre el área total del hexágono, como se muestra en la siguiente fórmula:
 
 **_(area_tipo1 * peso_tipo1 + area_tipo2 * peso_tipo2 + ... + area_tipoN * peso_tipoN) / area_hexágono_**
 
+Entonces, el resultado final para cada hexágono es un valor entre 0 y 1 en donde **los valores cercanos a 1 reflejan un predominio de los tipos de coberturas de vegetación natural y los cercanos a 0 reflejan tipos intervenidos por el ser humano**.
 
 ## Bibliografía
 
