@@ -38,7 +38,7 @@ Los registros de presencia provienen de dos consultas ([1](https://www.gbif.org/
 Haga clic en el mapa para verlo en detalle
 
 | Cobertura/uso              | Peso | Cobertura/uso              | Peso |
-| -------------------------- | ----:|
+| -------------------------- | ----:| -------------------------- | ----:|
 | Cobertura boscosa          | 1    |
 | Manglar                    | 1    |
 | Yolillal                   | 1    |
