@@ -2,7 +2,7 @@
 
 ## Introducción
 
-El [Índice de Naturaleza](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018930) es un marco de trabajo [desarrollado en Noruega](http://www.nina.no/english/Environmental-monitoring/The-Norwegian-Nature-Index), apoyado en tecnología informática, que **permite sintetizar y comunicar el conocimiento acerca del estado de la biodiversidad en áreas geográficas y períodos de tiempo determinados**, a partir de un conjunto de **indicadores**. Estos indicadores están basados en especies o grupos de especies seleccionados por un panel de expertos y que son representativos de los diferentes ecosistemas del área en estudio. Pueden referirse, por ejemplo, a la densidad, abundancia o distribución de una especie o comunidad. 
+El **Índice de Naturaleza** [Certain et al., 2011](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018930) es un marco de trabajo [desarrollado en Noruega](http://www.nina.no/english/Environmental-monitoring/The-Norwegian-Nature-Index), apoyado en tecnología informática, que **permite sintetizar y comunicar el conocimiento acerca del estado de la biodiversidad en áreas geográficas y períodos de tiempo determinados**, a partir de un conjunto de **indicadores**. Estos indicadores están basados en especies o grupos de especies seleccionados por un panel de expertos y que son representativos de los diferentes ecosistemas del área en estudio. Pueden referirse, por ejemplo, a la densidad, abundancia o distribución de una especie o comunidad. 
 
 La implementación del Índice de Naturaleza para los [12 sitios Ramsar de Costa Rica](https://www.ramsar.org/es/humedal/costa-rica) (llamados también **Humedales Protegidos de Importancia Internacional**), ha permitido avanzar en la sistematización de la información que se requiere para conocer el estado de la biodiversidad en estos sitios y así ayudar a mitigar las amenazas a los ecosistemas que los componen. Esta sistematización es uno de los resultados prioritarios del [Proyecto “Conservación, Uso Sostenible de la Biodiversidad y Mantenimiento de los Servicios de los Ecosistemas de Humedales Protegidos de Importancia Internacional”](http://www.proyectohumedalescr.info/) (llamado también Proyecto Humedales), el cual mejorará la gestión de los sitios Ramsar de Costa Rica con el fin de aumentar su conservación y uso sostenible, así como el mantenimiento de los servicios ecosistémicos que proporcionan.
 
@@ -42,3 +42,7 @@ Haga clic en el mapa para verlo en detalle
 | Cobertura boscosa | 1    |
 | Manglar           | 1    |
 | Yolillal          | 1    |
+
+## Bibliografía
+
+Certain, G., Skarpaas, O., Bjerke, J. W., Framstad, E., Lindholm, M., Nilsen, J. E., … Nybø, S. (2011). The nature index: A general framework for synthesizing knowledge on the state of biodiversity. PLoS ONE, 6(4). https://doi.org/10.1371/journal.pone.0018930
