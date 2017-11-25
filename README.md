@@ -37,7 +37,7 @@ Los registros de presencia provienen de dos consultas ([1](https://www.gbif.org/
 [![Indicador de riqueza de aves acuáticas residentes](img/in-indicador-cobertura.png)](https://mfvargas.carto.com/builder/384b1e8e-05d8-471f-8c82-830697fd3503/embed "Haga clic en el mapa para verlo en detalle")
 Haga clic en el mapa para verlo en detalle
 
-| Cobertura/uso              | Peso |
+| Cobertura/uso              | Peso | Cobertura/uso              | Peso |
 | -------------------------- | ----:|
 | Cobertura boscosa          | 1    |
 | Manglar                    | 1    |
