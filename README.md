@@ -14,7 +14,7 @@ La siguiente es la lista de indicadores utilizados en la implementación del Ín
 
 * [Riqueza de especies de mamíferos terrestres](#riqueza-de-especies-de-mam%C3%ADferos-terrestres)
 * [Riqueza de especies de aves acuáticas residentes](#riqueza-de-especies-de-aves-acu%C3%A1ticas-residentes)
-* [Estado de la cobertura vegetal natural y de la cobertura acuática natural](#cobertura-y-uso-de-la-tierra)
+* [Estado de la cobertura vegetal natural y de la cobertura acuática natural](#estado-de-la-cobertura-vegetal-natural-y-de-la-cobertura-acu%C3%A1tica-natural)
 
 ### Riqueza de especies de mamíferos terrestres
 [![Indicador de riqueza de mamíferos terrestres](img/in-indicador-mamiferos.png)](https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed "Haga clic en el mapa para verlo en detalle")
@@ -56,7 +56,7 @@ Este indicador muestra el estado de la cobertura vegetal natural y de la cobertu
 
 Los tipos de cobertura o uso que son naturales tienen un peso de uno y este peso disminuye conforme aumenta el grado de intervención humana en la cobertura o el uso. Para cada hexágono, el valor del indicador se calcula sumando las áreas de cada tipo de cobertura/uso multiplicadas por el peso respectivo y diviendo esta suma entre el área total del hexágono, conmo se muestra en la siguiente fórmula:
 
-**(area_tipo1*peso_tipo1 + area_tipo2*peso_tipo2 + ... + area_tipon*tipo_peson) / area_hexágono**
+**(area_tipo1 * peso_tipo1 + area_tipo2 * peso_tipo2 + ... + area_tipon * peso_tipon) / area_hexágono**
 
 
 ## Bibliografía
