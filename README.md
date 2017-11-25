@@ -12,7 +12,7 @@ La siguiente es la lista de indicadores utilizados en la implementación del Ín
 
 * [Riqueza de especies de mamíferos terrestres](https://github.com/indice-naturaleza/ramsar/blob/master/README.md#riqueza-de-especies-de-mam%C3%ADferos-terrestres)
 * [Riqueza de especies de aves acuáticas residentes](https://github.com/indice-naturaleza/ramsar/blob/master/README.md#riqueza-de-especies-de-aves-acu%C3%A1ticas-residentes)
-* [Cobertura y uso de la tierra]()
+* [Cobertura y uso de la tierra](https://github.com/indice-naturaleza/ramsar/blob/master/README.md#cobertura-y-uso-de-la-tierra)
 
 ### Riqueza de especies de mamíferos terrestres
 [![Indicador de riqueza de mamíferos terrestres](https://github.com/indice-naturaleza/ramsar/blob/master/img/in-indicador-mamiferos.png)](https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed "Haga clic en el mapa para verlo en detalle")
