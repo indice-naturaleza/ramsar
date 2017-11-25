@@ -2,6 +2,8 @@
 
 El Índice de la Naturaleza (IN) es un marco de trabajo, apoyado en tecnología informática, que permite sintetizar y comunicar el conocimiento acerca del estado de la biodiversidad en áreas geográficas y períodos de tiempo determinados, con base en un conjunto de indicadores. Estos indicadores son, por lo general, especies o grupos de especies seleccionados por un grupo de expertos y que son representativos de los diferentes ecosistemas del área de estudio.
 
+La implementación del IN para los sitios Ramsar de Costa Rica (llamdos también Humedales Protegidos de Importancia Internacional), ha permitido avanzar en la sistematización de la información que se requiere para conocer el estado de la biodiversidad en estos sitios y así ayudar a mitigar las amenazas a los ecosistemas que los componen. Este es uno de los resultados prioritarios del [Proyecto “Conservación, Uso Sostenible de la Biodiversidad y Mantenimiento de los Servicios de los Ecosistemas de Humedales Protegidos de Importancia Internacional”](http://www.proyectohumedalescr.info/) (llamado también Proyecto Humedales).
+
 ## Indicadores
 
 ### Riqueza de especies de mamíferos terrestres
