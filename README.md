@@ -37,18 +37,18 @@ Los registros de presencia provienen de dos consultas ([1](https://www.gbif.org/
 [![Indicador de riqueza de aves acuáticas residentes](img/in-indicador-cobertura.png)](https://mfvargas.carto.com/builder/384b1e8e-05d8-471f-8c82-830697fd3503/embed "Haga clic en el mapa para verlo en detalle")
 Haga clic en el mapa para verlo en detalle
 
-| Cobertura/uso              | Peso | - | Cobertura/uso              | Peso |
+| Cobertura/uso              | Peso |   | Cobertura/uso              | Peso |
 | -------------------------- | ----:| - | -------------------------- | ----:|
-| Cobertura boscosa          | 1    | - | Agricultura                | 0    |
-| Manglar                    | 1    | - | Cultivo de arroz           | 0    |
-| Yolillal                   | 1    | - | Cultivo de arroz           | 0    |
-| Laguna                     | 1    | - | Cultivo de arroz           | 0    |
-| Red hídrica                | 1    | - | Cultivo de arroz           | 0    |
-| Mar                        | 1    | - | Cultivo de arroz           | 0    |
-| Playas y arenas-sedimentos | 1    | - | Cultivo de arroz           | 0    |
-| Plantación forestal        | 0.7  | - | Cultivo de arroz           | 0    |
-| Charral                    | 0.5  | - | Cultivo de arroz           | 0    |
-| Pastos                     | 0.01 | - | Cultivo de arroz           | 0    |
+| Cobertura boscosa          | 1    |   | Agricultura                | 0    |
+| Manglar                    | 1    |   | Cultivo de arroz           | 0    |
+| Yolillal                   | 1    |   | Cultivo de arroz           | 0    |
+| Laguna                     | 1    |   | Cultivo de arroz           | 0    |
+| Red hídrica                | 1    |   | Cultivo de arroz           | 0    |
+| Mar                        | 1    |   | Cultivo de arroz           | 0    |
+| Playas y arenas-sedimentos | 1    |   | Cultivo de arroz           | 0    |
+| Plantación forestal        | 0.7  |   | Cultivo de arroz           | 0    |
+| Charral                    | 0.5  |   | Cultivo de arroz           | 0    |
+| Pastos                     | 0.01 |   | Cultivo de arroz           | 0    |
 
 ## Bibliografía
 
