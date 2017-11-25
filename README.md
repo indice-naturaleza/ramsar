@@ -15,7 +15,7 @@ La siguiente es la lista de indicadores utilizados en la implementación del Ín
 * [Cobertura y uso de la tierra](https://github.com/indice-naturaleza/ramsar/blob/master/README.md#cobertura-y-uso-de-la-tierra)
 
 ### Riqueza de especies de mamíferos terrestres
-[![Indicador de riqueza de mamíferos terrestres](https://github.com/indice-naturaleza/ramsar/blob/master/img/in-indicador-mamiferos.png)](https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed "Haga clic en el mapa para verlo en detalle")
+[![Indicador de riqueza de mamíferos terrestres](../img/in-indicador-mamiferos.png)](https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed "Haga clic en el mapa para verlo en detalle")
 Haga clic en el mapa para verlo en detalle
 
 Este indicador se construyó con base en **2429 registros de presencia** (ej. recolecciones, observaciones) de **96 especies de felinos, ungulados, cánidos, roedores, marsupiales y otros grupos de mamíferos terrestres**. El valor del indicador representa la riqueza (i.e. cantidad) de especies reportadas en cada hexágono, en dónde el valor de referencia para cada sitio Ramsar corresponde al hexágono con la mayor riqueza de especies en cada sitio. Así, los hexágonos con riqueza de especies cercanos a ese máximo tendrán valores próximos a 1 (color azul) y los de menor riqueza tendrán valores cercanos a 0 (color rojo).
