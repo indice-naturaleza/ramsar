@@ -40,15 +40,15 @@ Haga clic en el mapa para verlo en detalle
 | Cobertura/uso              | Peso | Cobertura/uso              | Peso |
 | -------------------------- | ----:| -------------------------- | ----:|
 | Cobertura boscosa          | 1    | Agricultura                | 0    |
-| Manglar                    | 1    |
-| Yolillal                   | 1    |
-| Laguna                     | 1    |
-| Red hídrica                | 1    |
-| Mar                        | 1    |
-| Playas y arenas-sedimentos | 1    |
-| Plantación forestal        | 0.7  |
-| Charral                    | 0.5  |
-| Pastos                     | 0.01 |
+| Manglar                    | 1    | Cultivo de arroz           | 0    |
+| Yolillal                   | 1    | Cultivo de arroz           | 0    |
+| Laguna                     | 1    | Cultivo de arroz           | 0    |
+| Red hídrica                | 1    | Cultivo de arroz           | 0    |
+| Mar                        | 1    | Cultivo de arroz           | 0    |
+| Playas y arenas-sedimentos | 1    | Cultivo de arroz           | 0    |
+| Plantación forestal        | 0.7  | Cultivo de arroz           | 0    |
+| Charral                    | 0.5  | Cultivo de arroz           | 0    |
+| Pastos                     | 0.01 | Cultivo de arroz           | 0    |
 
 ## Bibliografía
 
