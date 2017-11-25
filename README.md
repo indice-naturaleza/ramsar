@@ -1,5 +1,7 @@
 # El Índice de Naturaleza de los sitios Ramsar de Costa Rica
 
+El Índice de la Naturaleza (IN) es un marco de trabajo, apoyado en tecnología informática, que permite sintetizar y comunicar el conocimiento acerca del estado de la biodiversidad en áreas geográficas y períodos de tiempo determinados, con base en un conjunto de indicadores. Estos indicadores son, por lo general, especies o grupos de especies seleccionados por un grupo de expertos y que son representativos de los diferentes ecosistemas del área de estudio.
+
 ## Indicadores
 
 ### Riqueza de especies de mamíferos terrestres
