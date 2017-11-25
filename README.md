@@ -24,7 +24,7 @@ Los registros de presencia provienen de una [consulta](https://www.gbif.org/occu
 
 
 ### Riqueza de especies de aves acuáticas residentes
-[![Indicador de riqueza de aves acuáticas residentes](https://github.com/indice-naturaleza/ramsar/blob/master/img/in-indicador-aves.png)](https://inhumedalescr.carto.com/builder/63bf6074-f6b1-4215-bccb-034853324d5a/embed "Haga clic en el mapa para verlo en detalle")
+[![Indicador de riqueza de aves acuáticas residentes](img/in-indicador-aves.png)](https://inhumedalescr.carto.com/builder/63bf6074-f6b1-4215-bccb-034853324d5a/embed "Haga clic en el mapa para verlo en detalle")
 Haga clic en el mapa para verlo en detalle
 
 Se utilizaron **46643 registros de presencia** de las **175 especies** que integran la lista del [censo de aves acuáticas residentes](http://uniondeornitologos.com/?p=10926) de la [Unión de Ornitólogos de Costa Rica](http://uniondeornitologos.com/). El valor del indicador representa la riqueza (i.e. cantidad) de especies reportadas en cada hexágono, en dónde el valor de referencia para cada sitio Ramsar corresponde al hexágono con la mayor riqueza de especies en cada sitio. Así, los hexágonos con riqueza de especies cercanos a ese máximo tendrán valores próximos a 1 (color azul) y los de menor riqueza tendrán valores cercanos a 0 (color rojo).
