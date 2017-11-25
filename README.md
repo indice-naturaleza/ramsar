@@ -32,4 +32,5 @@ Se utilizaron **46643 registros de presencia** de las **175 especies** que integ
 Los registros de presencia provienen de dos consultas ([1](https://www.gbif.org/occurrence/download/0005313-171113114016250), [2](https://www.gbif.org/occurrence/download/0005314-171113114016250)) al portal de GBIF y de datos proporcionados por funcionarios de las áreas de conservación de Costa Rica e investigadores independientes.
 
 ### Cobertura y uso de la tierra
-[Mapa del indicador](https://mfvargas.carto.com/builder/384b1e8e-05d8-471f-8c82-830697fd3503/embed)
+[![Indicador de riqueza de aves acuáticas residentes](img/in-indicador-cobertura.png)](https://mfvargas.carto.com/builder/384b1e8e-05d8-471f-8c82-830697fd3503/embed "Haga clic en el mapa para verlo en detalle")
+Haga clic en el mapa para verlo en detalle
