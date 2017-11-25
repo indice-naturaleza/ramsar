@@ -11,6 +11,7 @@ A continuación se presenta la lista de indicadores utilizados para el IN de los
 ## Indicadores
 
 ### Riqueza de especies de mamíferos terrestres
+![Indicador de riqueza de mamíferos terrestres](https://github.com/indice-naturaleza/ramsar/blob/master/img/in-indicador-mamiferos.png "Indicador de riqueza de mamíferos terrestres")
 [Mapa del indicador](https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed)
 
 Este indicador se construyó con base en **2429 registros de presencia** (ej. recolecciones, observaciones) georreferenciados de **96 especies** de felinos, ungulados, cánidos, roedores, marsupiales y otros grupos de mamíferos terrestres. Los registros provienen de una [consulta](https://www.gbif.org/occurrence/download/0001416-171113114016250) a la [Infraestructura Mundial de Información en Biodiversidad (GBIF)](https://www.gbif.org/) y de datos proporcionados por personal de las áreas de conservación de Costa Rica e investigadores independientes.
