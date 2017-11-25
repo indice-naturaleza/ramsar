@@ -14,7 +14,7 @@ La siguiente es la lista de indicadores utilizados en la implementación del Ín
 
 * [Riqueza de especies de mamíferos terrestres](#riqueza-de-especies-de-mam%C3%ADferos-terrestres)
 * [Riqueza de especies de aves acuáticas residentes](#riqueza-de-especies-de-aves-acu%C3%A1ticas-residentes)
-* [Extensión de la cobertura vegetal natural y de la cobertura acuática natural](#estado-de-la-cobertura-vegetal-natural-y-de-la-cobertura-acu%C3%A1tica-natural)
+* [Extensión de la cobertura vegetal natural y de la cobertura acuática natural](#extensi%C3%B3n-de-la-cobertura-vegetal-natural-y-de-la-cobertura-acu%C3%A1tica-natural)
 
 ### Riqueza de especies de mamíferos terrestres
 [![Indicador de riqueza de mamíferos terrestres](img/in-indicador-mamiferos.png)](https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed "Haga clic en el mapa para verlo en detalle")
