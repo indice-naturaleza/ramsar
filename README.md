@@ -39,7 +39,7 @@ Haga clic en el mapa para verlo en detalle
 
 | Cobertura/uso              | Peso | Cobertura/uso              | Peso |
 | -------------------------- | ----:| -------------------------- | ----:|
-| Cobertura boscosa          | 1    |
+| Cobertura boscosa          | 1    | Agricultura                | 0    |
 | Manglar                    | 1    |
 | Yolillal                   | 1    |
 | Laguna                     | 1    |
