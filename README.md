@@ -56,7 +56,7 @@ Este indicador muestra el estado de la cobertura vegetal natural y de la cobertu
 
 Los tipos de cobertura que son naturales tienen un peso de uno y este peso disminuye conforme aumenta el grado de intervención humana en la cobertura o el uso. Para cada hexágono, el valor del indicador se calcula sumando las áreas de cada tipo de cobertura/uso multiplicadas por el peso respectivo y diviendo esta suma entre el área total del hexágono, como se muestra en la siguiente fórmula:
 
-**_(area_tipo1 * peso_tipo1 + area_tipo2 * peso_tipo2 + ... + area_tipoN * peso_tipoN) / area_hexágono_**
+**_(area_tipo1 * peso_tipo1 + area_tipo2 * peso_tipo2 + ... + area_tipoN * peso_tipoN) / area_hexagono_**
 
 Entonces, el resultado final para cada hexágono es un valor entre 0 y 1 en donde **los valores cercanos a 1 reflejan un predominio de los tipos de coberturas de vegetación natural y los cercanos a 0 reflejan tipos intervenidos por el ser humano**.
 
