@@ -6,9 +6,13 @@ La implementación del Índice de Naturaleza para los [12 sitios Ramsar de Costa
 
 Cada indicador es reportado para un total de [2006 hexágonos de 5 km2](https://inhumedalescr.carto.com/builder/d507a6aa-5ae7-441e-b921-ab880fde01e3/embed), definidos en los sitios Ramsar de Costa Rica. Esta división está basada en los puntos de muestreo del [Inventario Nacional Forestal](http://www.sirefor.go.cr/?p=1170), lo que permite el intercambio de datos con esta y otras iniciativas a nivel nacional. **Todos los indicadores son normalizados a un valor entre 0 y 1** para cada hexágono, en donde el **0 (rojo en los mapas) representa un mal estado del indicador** y el **1 (azul en los mapas) representa un estado ecológicamente sostenible del indicador** y que minimiza la probabilidad de su extinción (o de la especie o comunidad a la que está relacionado). Al valor numérico correspondiente a este estado se le denomina **valor de referencia del indicador**.
 
-A continuación se presenta la lista de indicadores utilizados para la implementación del Índice de Naturaleza en los sitios Ramsar de Costa Rica.
-
 ## Indicadores
+
+La siguiente es la lista de indicadores utilizados en la implementación del Índice de Naturaleza en los sitios Ramsar de Costa Rica.
+
+* Riqueza de especies de mamíferos terrestres
+* Riqueza de especies de aves acuáticas residentes
+* Cobertura y uso de la tierra
 
 ### Riqueza de especies de mamíferos terrestres
 [![Indicador de riqueza de mamíferos terrestres](https://github.com/indice-naturaleza/ramsar/blob/master/img/in-indicador-mamiferos.png)](https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed "Haga clic en el mapa para verlo en detalle")
@@ -27,5 +31,5 @@ Se utilizaron **46643 registros de presencia** de las **175 especies** que integ
 
 Los registros de presencia provienen de dos consultas ([1](https://www.gbif.org/occurrence/download/0005313-171113114016250), [2](https://www.gbif.org/occurrence/download/0005314-171113114016250)) al portal de GBIF y de datos proporcionados por funcionarios de las áreas de conservación de Costa Rica e investigadores independientes.
 
-### Cobertura de la tierra
+### Cobertura y uso de la tierra
 [Mapa del indicador](https://mfvargas.carto.com/builder/384b1e8e-05d8-471f-8c82-830697fd3503/embed)
