@@ -14,7 +14,7 @@ La siguiente es la lista de indicadores utilizados en la implementación del Ín
 
 * [Riqueza de especies de mamíferos terrestres](#riqueza-de-especies-de-mam%C3%ADferos-terrestres)
 * [Riqueza de especies de aves acuáticas residentes](#riqueza-de-especies-de-aves-acu%C3%A1ticas-residentes)
-* [Cobertura y uso de la tierra](#cobertura-y-uso-de-la-tierra)
+* [Estado de la cobertura vegetal natural y de la cobertura acuática natural](#cobertura-y-uso-de-la-tierra)
 
 ### Riqueza de especies de mamíferos terrestres
 [![Indicador de riqueza de mamíferos terrestres](img/in-indicador-mamiferos.png)](https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed "Haga clic en el mapa para verlo en detalle")
@@ -33,9 +33,11 @@ Se utilizaron **46643 registros de presencia** de las **175 especies** que integ
 
 Los registros de presencia provienen de dos consultas ([1](https://www.gbif.org/occurrence/download/0005313-171113114016250), [2](https://www.gbif.org/occurrence/download/0005314-171113114016250)) al portal de GBIF y de datos proporcionados por funcionarios de las áreas de conservación de Costa Rica e investigadores independientes.
 
-### Cobertura y uso de la tierra
+### Estado de la cobertura vegetal natural y de la cobertura acuática natural
 [![Indicador de riqueza de aves acuáticas residentes](img/in-indicador-cobertura.png)](https://mfvargas.carto.com/builder/384b1e8e-05d8-471f-8c82-830697fd3503/embed "Haga clic en el mapa para verlo en detalle")
 Haga clic en el mapa para verlo en detalle
+
+Este indicador muestra el estado de la cobertura vegetal natural y de la cobertura acuática natural en los sitios Ramsar en los que que el Proyecto Humedales ha realizado estudios de cobertura y uso de la tierra. Estos son: **Térraba Sierpe, Gandoca-Manzanillo, Caribe Noreste, Maquenque, Caño Negro y Palo Verde**. Para calcular el indicador, se le asigna un peso entre 0 y 1 a cada uno de los tipos de cobertura o uso de la tierra identificados por el Proyecto Humedales, como se muestra en la siguiente tabla:
 
 | Cobertura/uso              | Peso |   | Cobertura/uso                | Peso |
 | -------------------------- | ----:| - | ---------------------------- | ----:|
@@ -51,6 +53,11 @@ Haga clic en el mapa para verlo en detalle
 | Pastos                     | 0.01 |   | Red vial                     | 0    |
 |                            |      |   | Área de nubes                | 0    |
 |                            |      |   | Área de sombras              | 0    |
+
+Los tipos de cobertura o uso que son naturales tienen un peso de uno y este peso disminuye conforme aumenta el grado de intervención humana en la cobertura o el uso. Para cada hexágono, el valor del indicador se calcula sumando las áreas de cada tipo de cobertura/uso multiplicadas por el peso respectivo y diviendo esta suma entre el área total del hexágono, conmo se muestra en la siguiente fórmula:
+
+**(area_tipo1*peso_tipo1 + area_tipo2*peso_tipo2 + ... + area_tipon*tipo_peson) / area_hexágono**
+
 
 ## Bibliografía
 
