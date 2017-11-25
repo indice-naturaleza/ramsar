@@ -2,7 +2,7 @@
 
 ## Introducción
 
-El **Índice de Naturaleza** (Certain et al., 2011) es un marco de trabajo [desarrollado en Noruega](http://www.nina.no/english/Environmental-monitoring/The-Norwegian-Nature-Index), apoyado en tecnología informática, que **permite sintetizar y comunicar el conocimiento acerca del estado de la biodiversidad en áreas geográficas y períodos de tiempo determinados**, a partir de un conjunto de **indicadores**. Estos indicadores son variables naturales relacionadas con diversos aspectos de la biodiversidad del área en estudio como, por ejemplo, la densidad, abundancia o distribución de una especie; métricas taxonómicas, funcionales o genéticas; o parámetros demográficos o de comportamiento.
+El [Índice de Naturaleza](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018930) (Certain et al., 2011) es un marco de trabajo [desarrollado en Noruega](http://www.nina.no/english/Environmental-monitoring/The-Norwegian-Nature-Index), apoyado en tecnología informática, que **permite sintetizar y comunicar el conocimiento acerca del estado de la biodiversidad en áreas geográficas y períodos de tiempo determinados**, a partir de un conjunto de **indicadores**. Estos indicadores son variables naturales relacionadas con diversos aspectos de la biodiversidad del área en estudio como, por ejemplo, la densidad, abundancia o distribución de una especie; métricas taxonómicas, funcionales o genéticas; o parámetros demográficos o de comportamiento.
 
 están basados en especies o grupos de especies seleccionadas por un panel de expertos y que son representativos de los diferentes ecosistemas del área en estudio. Pueden referirse, por ejemplo, a la densidad, abundancia o distribución de una especie o comunidad. 
 
