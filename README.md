@@ -16,16 +16,16 @@ Haga clic en el mapa para verlo en detalle
 
 Este indicador se construyó con base en **2429 registros de presencia** (ej. recolecciones, observaciones) de **96 especies de felinos, ungulados, cánidos, roedores, marsupiales y otros grupos de mamíferos terrestres**. El valor del indicador representa la riqueza (i.e. cantidad) de especies reportadas en cada hexágono, en dónde el valor de referencia para cada sitio Ramsar corresponde al hexágono con la mayor riqueza de especies en cada sitio. Así, los hexágonos con riqueza de especies cercanos a ese máximo tendrán valores próximos a 1 (color azul) y los de menor riqueza tendrán valores cercanos a 0 (color rojo).
 
-Los registros de presencia provienen de una [consulta](https://www.gbif.org/occurrence/download/0001416-171113114016250) al portal de la [Infraestructura Mundial de Información en Biodiversidad (GBIF)](https://www.gbif.org/) y de datos proporcionados por personal de las áreas de conservación de Costa Rica e investigadores independientes.
+Los registros de presencia provienen de una [consulta](https://www.gbif.org/occurrence/download/0001416-171113114016250) al portal de la [Infraestructura Mundial de Información en Biodiversidad (GBIF)](https://www.gbif.org/) y de datos proporcionados por funcionarios de las áreas de conservación de Costa Rica e investigadores independientes.
 
 
 ### Riqueza de especies de aves acuáticas residentes
 [![Indicador de riqueza de aves acuáticas residentes](https://github.com/indice-naturaleza/ramsar/blob/master/img/in-indicador-aves.png)](https://inhumedalescr.carto.com/builder/63bf6074-f6b1-4215-bccb-034853324d5a/embed "Haga clic en el mapa para verlo en detalle")
 Haga clic en el mapa para verlo en detalle
 
-Se utilizaron **46643 registros de presencia de 175 especies de aves acuáticas residentes** de Costa Rica. Se utilizó la lista de especies del [censo de aves acuáticas residentes de la Unión de Ornitólogos de Costa Rica](http://uniondeornitologos.com/?p=10926).
+Se utilizaron **46643 registros de presencia** de **175 especies** de la lista del [censo de aves acuáticas residentes de la Unión de Ornitólogos de Costa Rica](http://uniondeornitologos.com/?p=10926). El valor del indicador representa la riqueza (i.e. cantidad) de especies reportadas en cada hexágono, en dónde el valor de referencia para cada sitio Ramsar corresponde al hexágono con la mayor riqueza de especies en cada sitio. Así, los hexágonos con riqueza de especies cercanos a ese máximo tendrán valores próximos a 1 (color azul) y los de menor riqueza tendrán valores cercanos a 0 (color rojo).
 
-Los registros de presencia provienen de dos consultas ([1](https://www.gbif.org/occurrence/download/0005313-171113114016250), [2](https://www.gbif.org/occurrence/download/0005314-171113114016250)) al portal de GBIF y de datos proporcionados por personal de las áreas de conservación de Costa Rica e investigadores independientes.
+Los registros de presencia provienen de dos consultas ([1](https://www.gbif.org/occurrence/download/0005313-171113114016250), [2](https://www.gbif.org/occurrence/download/0005314-171113114016250)) al portal de GBIF y de datos proporcionados por funcionarios de las áreas de conservación de Costa Rica e investigadores independientes.
 
 ### Cobertura de la tierra
 [Mapa del indicador](https://mfvargas.carto.com/builder/384b1e8e-05d8-471f-8c82-830697fd3503/embed)
