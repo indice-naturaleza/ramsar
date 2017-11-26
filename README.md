@@ -22,7 +22,7 @@ Haga clic en el mapa para verlo en detalle
 
 Este indicador se construyó con base en **2429 registros de presencia** (ej. recolecciones, observaciones) de **96 especies de felinos, ungulados, cánidos, roedores, marsupiales y otros grupos de mamíferos terrestres**. El valor del indicador representa la riqueza (i.e. cantidad) de especies reportadas en cada hexágono, en dónde el valor de referencia para cada sitio Ramsar corresponde al hexágono con la mayor riqueza de especies en cada sitio. Así, los hexágonos con riqueza de especies cercanos a ese máximo tendrán valores próximos a 1 (color azul) y los de menor riqueza tendrán valores cercanos a 0 (color rojo) en cada sitio Ramsar.
 
-Los registros de presencia provienen de una [consulta](https://www.gbif.org/occurrence/download/0001416-171113114016250) al portal de la [Infraestructura Mundial de Información en Biodiversidad (GBIF)](https://www.gbif.org/) y de datos proporcionados por funcionarios de las áreas de conservación de Costa Rica e investigadores independientes.
+Los registros de presencia provienen de una [consulta](https://www.gbif.org/occurrence/download/0001416-171113114016250) al portal de la [Infraestructura Mundial de Información en Biodiversidad (GBIF)](https://www.gbif.org/) y de [datos proporcionados por funcionarios de las áreas de conservación de Costa Rica e investigadores independientes](data/Datos_IN_Mamiferos_terrestres.xlsx).
 
 
 ### Riqueza de especies de aves acuáticas residentes
