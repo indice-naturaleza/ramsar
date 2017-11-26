@@ -20,6 +20,8 @@ La siguiente es la lista de indicadores utilizados en la implementación del Ín
 [![Indicador de riqueza de mamíferos terrestres](img/in-indicador-mamiferos.png)](https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed "Haga clic en el mapa para verlo en detalle")
 Haga clic en el mapa para verlo en detalle
 
+<iframe width="100%" height="520" frameborder="0" src="https://inhumedalescr.carto.com/builder/c0e33a3d-a42a-4e2f-a770-75742144dad8/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 Este indicador se construyó con base en **2429 registros de presencia** (ej. recolecciones, observaciones) de **96 especies de felinos, ungulados, cánidos, roedores, marsupiales y otros grupos de mamíferos terrestres**. El valor del indicador representa la riqueza (i.e. cantidad) de especies reportadas en cada hexágono, en dónde el valor de referencia para cada sitio Ramsar corresponde al hexágono con la mayor riqueza de especies en cada sitio. Así, los hexágonos con riqueza de especies cercanos a ese máximo tendrán valores próximos a 1 (color azul) y los de menor riqueza tendrán valores cercanos a 0 (color rojo) en cada sitio Ramsar.
 
 Los registros de presencia provienen de una [consulta](https://www.gbif.org/occurrence/download/0001416-171113114016250) al portal de la [Infraestructura Mundial de Información en Biodiversidad (GBIF)](https://www.gbif.org/) y de [datos proporcionados por funcionarios de las áreas de conservación de Costa Rica e investigadores independientes](data/Datos_IN_Mamiferos_terrestres.xlsx).
