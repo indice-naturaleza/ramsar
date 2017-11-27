@@ -14,6 +14,7 @@ La siguiente es la lista de indicadores utilizados en la implementación del Ín
 
 * [Riqueza de especies de mamíferos terrestres](#riqueza-de-especies-de-mam%C3%ADferos-terrestres)
 * [Riqueza de especies de aves acuáticas residentes](#riqueza-de-especies-de-aves-acu%C3%A1ticas-residentes)
+* [Riqueza de especies de tortugas marinas](#riqueza-de-especies-de-tortugas-marinas)
 * [Extensión de la cobertura vegetal natural y de la cobertura acuática natural](#extensi%C3%B3n-de-la-cobertura-vegetal-natural-y-de-la-cobertura-acu%C3%A1tica-natural)
 
 ### Riqueza de especies de mamíferos terrestres
